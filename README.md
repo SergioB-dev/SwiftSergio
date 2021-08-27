@@ -2,7 +2,7 @@
 
 I'm Sergio, a passionate iOS Developer.
 
-- 🔭 I’m currently working on [Quotes](https://github.com/SwiftSergio/quotes) a simple UI consuming JSON from a custom vapor backend server. Next project will be consuming JSON from a firebase backend.
+- 🔭 I’m currently working on [Arabic Grammar](https://github.com/SwiftSergio/ArabicGrammar) an app with the purpose of facilitating Arabic for anyone looking to learn the language. I love leveraging technology to satisfy a need. As someone who has learned arabic, my aim in this app is to really highlight the fundamentals of the language and progress from there. 
 <!--
 **SwiftSergio/SwiftSergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
