@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I'm Sergio, a passionate iOS Developer.
+I'm Sergio, a backend developer @ Pilot.com. I'm passionate about programming, here are some self-observed facts:
 
-- 🔭 I’m currently working on [Arabic Grammar](https://github.com/SwiftSergio/ArabicGrammar) an app with the purpose of facilitating Arabic for anyone looking to learn the language. I love leveraging technology to satisfy a need. As someone who has learned arabic, my aim in this app is to really highlight the fundamentals of the language and progress from there. 
+9 times out of 10 I'll be programming in one of these languages: Rust / Python / Swift / JS. 
+Also, equally likely I'll be working on some side project. 
+
+- 💻 Currently working on [regex-trainer](https://github.com/SwiftSergio/rust-regex-pro) written in Rust.
+
+
 <!--
 **SwiftSergio/SwiftSergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
